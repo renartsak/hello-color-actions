@@ -6,9 +6,9 @@
   "dependencies": {
     "@actions/core": "^1.2.4",
     "@actions/github": "^3.0.0",
-    "jest": "^26.4.2"
+    "jest": "^26.4.2",
+    "jslint": "^0.12.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "jest"
   },
